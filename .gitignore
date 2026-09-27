@@ -1,2 +1,8 @@
-out/
-review-report.md
+# Jupyter
+.ipynb_checkpoints/
+
+# Training outputs and local experiment artifacts
+models/
+logs/
+outputs/
+*.mp4
